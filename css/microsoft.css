@@ -1,0 +1,37 @@
+body{
+background-color:lightGrey;
+}
+
+.pong{
+color:#A4B327;
+text-transform:capitalize;
+text-align:center;
+}
+
+.bbi{
+margin-bottom:20px;
+text-align:center;
+}
+.jesse{
+font-weight:bold;
+}
+.sancho{
+font-weight:bold;
+}
+
+.center-content{
+text-align:center;
+}
+
+.photo{
+background:white;
+width:300px;
+margin:0 auto;
+padding:50px;
+border-radius:30px;
+}
+ input {
+ display:block;
+ margin-bottom:10px;
+ text-decoration:none;
+ }
